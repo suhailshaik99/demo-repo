@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: sans-serif;
+}
+
+nav {
+    padding: 2rem;
+    /* border: 2px solid saddlebrown; */
+    font-size: 1.5rem;
+    background-color: bisque;
+}
+
+header {
+    /* border: 2px solid brown; */
+    text-align: center;
+    background-color: aquamarine;
+}
